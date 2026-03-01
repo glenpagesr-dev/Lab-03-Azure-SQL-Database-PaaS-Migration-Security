@@ -50,6 +50,8 @@ vm-web-01 → Azure Key Vault → Azure SQL Database
 
 ### Phase 1: Decommission the Old Database
 
+![alt text](https://github.com/glenpagesr-dev/Lab-03-Modernizing-to-Paas-Securing-Secrets/blob/main/Decommission%20the%20old%20Database.png)
+
 1. Navigate to:
 
 Resource Groups → rg-lab02-[yourname]
