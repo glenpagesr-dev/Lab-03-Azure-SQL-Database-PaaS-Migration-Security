@@ -19,7 +19,7 @@ You will also deploy Azure Key Vault to securely store database credentials and 
 
 ## Architecture Overview
 
-[alt text](https://github.com/glenpagesr-dev/Lab-03-Modernizing-to-Paas-Securing-Secrets/blob/main/Architecture%20Diagram.png)
+![alt text](https://github.com/glenpagesr-dev/Lab-03-Modernizing-to-Paas-Securing-Secrets/blob/main/Architecture%20Diagram.png)
 
 vm-web-01 → Azure Key Vault → Azure SQL Database
 
