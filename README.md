@@ -145,6 +145,8 @@ Review + Create → Create
 
 ### Phase 4: Secure the Secret
 
+![alt text](https://github.com/glenpagesr-dev/Lab-03-Modernizing-to-Paas-Securing-Secrets/blob/main/Create%20a%20Secret.png)
+
 1. Navigate to your Key Vault.
 2. Select:
 
