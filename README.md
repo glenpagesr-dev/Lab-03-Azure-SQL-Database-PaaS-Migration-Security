@@ -166,6 +166,8 @@ Click **Create**
 
 ### Phase 5: Managed Identity & Access
 
+![alt text](https://github.com/glenpagesr-dev/Lab-03-Modernizing-to-Paas-Securing-Secrets/blob/main/Enable%20Managed%20Identity%20%26%20Access.png)
+
 #### Enable Identity on VM
 
 1. Navigate to `vm-web-01`
