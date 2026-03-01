@@ -120,6 +120,8 @@ Review + Create → Create
 
 ### Phase 3: Deploy Azure Key Vault
 
+![alt text](https://github.com/glenpagesr-dev/Lab-03-Modernizing-to-Paas-Securing-Secrets/blob/main/Deploy%20Azure%20Key%20Vault.png)
+
 1. Search **Key Vaults** → Click **Create**
 
 #### Basics Tab
