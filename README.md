@@ -19,14 +19,7 @@ You will also deploy Azure Key Vault to securely store database credentials and 
 
 ## Architecture Overview
 
-In this refactored design:
-
-- `vm-web-01` retrieves a secret from **Azure Key Vault**
-- The web server connects to **Azure SQL Database (PaaS)**
-- `vm-db-01` no longer exists
-
-Flow:
-
+[alt text](https://github.com/glenpagesr-dev/Lab-03-Modernizing-to-Paas-Securing-Secrets/blob/main/Architecture%20Diagram.png)
 
 vm-web-01 → Azure Key Vault → Azure SQL Database
 
