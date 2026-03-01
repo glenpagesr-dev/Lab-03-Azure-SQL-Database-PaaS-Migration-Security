@@ -70,6 +70,8 @@ Resource Groups → rg-lab02-[yourname]
 
 ### Phase 2: Deploy Azure SQL Database (PaaS)
 
+![alt text](https://github.com/glenpagesr-dev/Lab-03-Modernizing-to-Paas-Securing-Secrets/blob/main/Deploy%20Azure%20SQL%20Database%20(PaaS).png)
+
 1. Search for **SQL databases** → Click **Create**
 
 #### Basics Tab
