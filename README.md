@@ -93,6 +93,8 @@ Click **OK**
 
 #### Compute + Storage (CRITICAL STEP)
 
+![alt text](https://github.com/glenpagesr-dev/Lab-03-Modernizing-to-Paas-Securing-Secrets/blob/main/Compute%20Storage.png)
+
 1. Click **Configure database**
 2. Service tier → **Basic (DTU-based)**
 3. Confirm slider is set to **Basic**
