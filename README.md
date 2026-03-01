@@ -208,6 +208,8 @@ Next → Create
 
 ### Phase 6: Validation (Azure Monitor)
 
+![alt text](https://github.com/glenpagesr-dev/Lab-03-Modernizing-to-Paas-Securing-Secrets/blob/main/Observability%20with%20Azure.png)
+
 1. Navigate to:
 
 sqldb-app
