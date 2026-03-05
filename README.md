@@ -1,7 +1,7 @@
 # [Watch me Build the Lab Here](https://www.loom.com/share/5f00dd4ce8154877803c46e38c3bcf4e)
 
 # Lab 03: Azure SQL Database (PaaS) Migration & Security
-In this lab, i will modernize an application to Azure Paas services and implement secure secret management using Azure key Vault, RBAC, and managed identities to eliminate hard-coded credentials and enforce least-privilege access. 
+In this lab, I will migrate an application to Azure Paas services and implement secure secret management using Azure key Vault, RBAC, and managed identities to eliminate hard-coded credentials and enforce least-privilege access. 
 
 **Author:** Glen Page  
 **Estimated Time:** 60 Minutes  
@@ -11,7 +11,7 @@ In this lab, i will modernize an application to Azure Paas services and implemen
 
 ## Objective
 
-This lab demonstrates how to modernize an Infrastructure-as-a-Service (IaaS) architecture by replacing a Database Virtual Machine with a fully managed Azure SQL Database (PaaS).  
+This lab demonstrates how to migrate an Infrastructure-as-a-Service (IaaS) architecture by replacing a Database Virtual Machine with a fully managed Azure SQL Database (PaaS).  
 
 You will also deploy Azure Key Vault to securely store database credentials and enable a Managed Identity on the Web Server so it can access secrets without storing passwords in configuration files.
 
