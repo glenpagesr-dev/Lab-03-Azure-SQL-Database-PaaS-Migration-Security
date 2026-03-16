@@ -1,4 +1,4 @@
-# [Watch me Build the Lab Here](https://www.loom.com/share/5f00dd4ce8154877803c46e38c3bcf4e)
+# 🎥[Watch me Build the Lab Here](https://www.loom.com/share/5f00dd4ce8154877803c46e38c3bcf4e)
 
 # Lab 03: Azure SQL Database (PaaS) Migration & Security
 In this lab, I will migrate an application to Azure Paas services and implement secure secret management using Azure key Vault, RBAC, and managed identities to eliminate hard-coded credentials and enforce least-privilege access. 
